@@ -1,0 +1,19 @@
+{
+  "name": "october",
+  "version": "1.0.0",
+  "description": "Laravel Elixir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kayhen/october.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kayhen/october/issues"
+  },
+  "homepage": "https://github.com/Kayhen/october#readme"
+}

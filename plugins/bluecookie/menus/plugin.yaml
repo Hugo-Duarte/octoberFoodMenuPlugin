@@ -8,17 +8,17 @@ navigation:
     main-menu-item:
         label: Menus
         url: bluecookie/menus/menus
-        icon: icon-cutlery
+        icon: icon-trello
         sideMenu:
             side-menu-item:
                 label: Items
                 url: bluecookie/menus/items
-                icon: icon-puzzle-piece
-            side-menu-item2:
-                label: Types
-                url: bluecookie/menus/types
-                icon: icon-tags
+                icon: icon-cutlery
             side-menu-item3:
                 label: Allergens
                 url: bluecookie/menus/allergens
                 icon: icon-medkit
+            side-menu-item2:
+                label: 'Item Types'
+                url: bluecookie/menus/types
+                icon: icon-tags
