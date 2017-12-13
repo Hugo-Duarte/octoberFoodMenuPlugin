@@ -1,0 +1,20 @@
+plugin:
+    name: 'bluecookie.menus::lang.plugin.name'
+    description: 'Bluecookie OctoberCMS food menu plugin.'
+    author: Bluecookie
+    icon: oc-icon-cutlery
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Menus
+        url: bluecookie/menus/menus
+        icon: icon-cutlery
+        sideMenu:
+            side-menu-item:
+                label: Items
+                url: /
+                icon: icon-plus
+            side-menu-item2:
+                label: Types
+                url: /
+                icon: icon-tags

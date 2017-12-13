@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table bluecookie_menus_allergens'
+    - builder_table_create_bluecookie_menus_allergens.php
+1.0.3:
+    - 'Created table bluecookie_menus_types'
+    - builder_table_create_bluecookie_menus_types.php
+1.0.4:
+    - 'Created table bluecookie_menus_items'
+    - builder_table_create_bluecookie_menus_items.php
+1.0.5:
+    - 'Created table bluecookie_menus_'
+    - builder_table_create_bluecookie_menus_.php

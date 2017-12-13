@@ -1,0 +1,11 @@
+name: Menus
+modelClass: Bluecookie\Menus\Models\Menu
+form: $/bluecookie/menus/models/menu/fields.yaml
+defaultRedirect: bluecookie/menus/menus
+create:
+    redirect: 'bluecookie/menus/menus/update/:id'
+    redirectClose: bluecookie/menus/menus
+update:
+    redirect: bluecookie/menus/menus
+    redirectClose: bluecookie/menus/menus
+preview: {  }
