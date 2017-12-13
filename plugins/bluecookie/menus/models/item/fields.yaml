@@ -1,0 +1,33 @@
+fields:
+    name:
+        label: Name
+        oc.commentPosition: ''
+        span: full
+        type: text
+    description:
+        label: Description
+        size: ''
+        oc.commentPosition: ''
+        span: full
+        type: richeditor
+    start_date:
+        label: 'Start Date'
+        oc.commentPosition: ''
+        mode: date
+        span: auto
+        type: datepicker
+    end_date:
+        label: 'End Date'
+        oc.commentPosition: ''
+        mode: date
+        span: auto
+        type: datepicker
+    price:
+        label: Price
+        oc.commentPosition: ''
+        span: auto
+        type: number
+    active:
+        label: Active
+        span: auto
+        type: switch

@@ -1,0 +1,16 @@
+fields:
+    name:
+        label: Name
+        oc.commentPosition: ''
+        span: full
+        type: text
+    description:
+        label: Description
+        size: ''
+        oc.commentPosition: ''
+        span: full
+        type: richeditor
+    active:
+        label: Active
+        span: auto
+        type: switch

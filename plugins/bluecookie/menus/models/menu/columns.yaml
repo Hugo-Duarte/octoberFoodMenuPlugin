@@ -10,12 +10,15 @@ columns:
     start_date:
         label: 'Start Date'
         type: date
+        searchable: true
         sortable: true
     end_date:
         label: 'End Date'
         type: date
+        searchable: true
         sortable: true
     active:
         label: Active
         type: switch
+        searchable: true
         sortable: true

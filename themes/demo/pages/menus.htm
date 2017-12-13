@@ -1,4 +1,14 @@
 title = "Menus"
 url = "/menus"
 is_hidden = 0
+
+[builderList]
+modelClass = "Bluecookie\Menus\Models\Menu"
+scope = "-"
+displayColumn = "name"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
 ==
+{% component 'builderList' %}
