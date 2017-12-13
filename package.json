@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Kayhen/october/issues"
   },
-  "homepage": "https://github.com/Kayhen/october#readme"
+  "homepage": "https://github.com/Kayhen/october#readme",
+  "devDependencies": {
+    "laravel-elixir": "^6.0.0-17",
+    "laravel-elixir-livereload": "^1.1.6"
+  }
 }
