@@ -1,0 +1,12 @@
+list: $/bluecookie/menus/models/allergen/columns.yaml
+modelClass: Bluecookie\Menus\Models\Allergen
+title: Allergens
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'bluecookie/menus/allergens/update/:id'

@@ -1,0 +1,4 @@
+title: Items
+modelClass: Bluecookie\Menus\Models\Item
+toolbar:
+    buttons: reorder_toolbar

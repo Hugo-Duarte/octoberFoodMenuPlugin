@@ -1,0 +1,10 @@
+name: Items
+form: $/bluecookie/menus/models/item/fields.yaml
+modelClass: Bluecookie\Menus\Models\Item
+defaultRedirect: bluecookie/menus/items
+create:
+    redirect: 'bluecookie/menus/items/update/:id'
+    redirectClose: bluecookie/menus/items
+update:
+    redirect: bluecookie/menus/items
+    redirectClose: bluecookie/menus/items

@@ -1,0 +1,10 @@
+name: Types
+form: $/bluecookie/menus/models/type/fields.yaml
+modelClass: Bluecookie\Menus\Models\Type
+defaultRedirect: bluecookie/menus/types
+create:
+    redirect: 'bluecookie/menus/types/update/:id'
+    redirectClose: bluecookie/menus/types
+update:
+    redirect: bluecookie/menus/types
+    redirectClose: bluecookie/menus/types

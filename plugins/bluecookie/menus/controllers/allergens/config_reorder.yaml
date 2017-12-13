@@ -1,0 +1,4 @@
+title: Allergens
+modelClass: Bluecookie\Menus\Models\Allergen
+toolbar:
+    buttons: reorder_toolbar

@@ -12,9 +12,13 @@ navigation:
         sideMenu:
             side-menu-item:
                 label: Items
-                url: /
-                icon: icon-plus
+                url: bluecookie/menus/items
+                icon: icon-puzzle-piece
             side-menu-item2:
                 label: Types
-                url: /
+                url: bluecookie/menus/types
                 icon: icon-tags
+            side-menu-item3:
+                label: Allergens
+                url: bluecookie/menus/allergens
+                icon: icon-medkit

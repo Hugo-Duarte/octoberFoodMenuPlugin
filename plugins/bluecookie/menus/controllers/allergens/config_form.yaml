@@ -1,0 +1,10 @@
+name: Allergens
+form: $/bluecookie/menus/models/allergen/fields.yaml
+modelClass: Bluecookie\Menus\Models\Allergen
+defaultRedirect: bluecookie/menus/allergens
+create:
+    redirect: 'bluecookie/menus/allergens/update/:id'
+    redirectClose: bluecookie/menus/allergens
+update:
+    redirect: bluecookie/menus/allergens
+    redirectClose: bluecookie/menus/allergens

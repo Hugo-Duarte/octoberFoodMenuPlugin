@@ -147,4 +147,5 @@
   'RainLab\\User\\Models\\UserGroup' => 'plugins/rainlab/user/models/UserGroup.php',
   'system\\Controllers\\mailtemplates' => 'modules/system/controllers/mailtemplates.php',
   'rainlab\\sitemap\\Plugin' => 'plugins/rainlab/sitemap/Plugin.php',
+  'bluecookie\\menus\\Controllers\\allergens' => 'plugins/bluecookie/menus/controllers/allergens.php',
 );
